@@ -52,13 +52,13 @@ def load_data(city, month, day):
     
     # to see 5 lines of raw data
     to_see = input('Would you like to see to see 5 lines of raw data? Enter yes or no:')
-    st = 0
-    sp = 5
+    strt = 0
+    stp = 5
     while to_see == 'yes':
         print(df[st:sp].head())
         to_see = input('Would you like to see to see  another 5 lines of raw data? Enter yes or no:')
-        st += 5
-        sp += 5
+        strt += 5
+        stp += 5
         continue
     
         
