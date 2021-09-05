@@ -4,7 +4,8 @@
 Bello Ahmad Abdullahi
 
 ### Date created
-22-08-2021
+August 28, 2021
+
 ### Explore US Bikeshare Data
 
 ### Description
